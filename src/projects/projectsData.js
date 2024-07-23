@@ -14,33 +14,34 @@ const projects = {
     github: "https://github.com/Vyashvardhan/MyWindows-Mindows",
     demo: "https://mindows.netlify.app",
   },
-  2: {
-    title: "Productivity App",
+  3: {
+    title: "Social Media App",
     image: projectTwo,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          A cutting-edge social media client designed for seamless and dynamic
+          user interactions, leveraging Node.js for robust and efficient backend
+          performance.
         </p>
       </>
     ),
-    github: "https://github.com",
-    demo: "https://netlify.com",
+    github: "https://github.com/Vyashvardhan/Social-Media",
+    demo: "https://github.com/Vyashvardhan/Social-Media",
   },
-  3: {
-    title: "Food Delivery App",
+  2: {
+    title: "Health Broker",
     image: projectThree,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Welcome to our comprehensive healthcare platform! Our website offers a
+          seamless experience for users and doctors alike.
         </p>
       </>
     ),
-    github: "https://github.com",
-    demo: "https://netlify.com",
+    github: "https://github.com/Vyashvardhan/Health-Brooker",
+    demo: "https://healthbooker.onrender.com/",
   },
 };
 
